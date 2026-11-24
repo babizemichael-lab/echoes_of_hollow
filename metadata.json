@@ -1,0 +1,6 @@
+{
+  "name": "Echoes of the Hollow",
+  "description": "A dark fantasy RPG with horizontal WASD rhythm combat, expressive character poses, and orchestral music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
